@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react-dom": "^19.2.0",
-    "react": "^19.2.0",
+    "react-dom": "^18.3.0",
+    "react": "^18.3.0",
     "three": "0.160.0",
     "@react-three/fiber": "8.15.16",
     "@react-three/drei": "9.99.0",
